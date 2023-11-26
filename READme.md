@@ -4,10 +4,6 @@ Anyways, this has some sick scroll reveal animations to showing off my creativit
 
 Here's a photo of the final preview: 
 
-![page-1](image.png)
-![page-2](image-1.png)
-![page-3](image-2.png)
-![page-4](image-3.png)
-![page-5](image-4.png)
-![page-6](image-5.png)
+<img width="1496" alt="Screenshot 2023-11-26 at 6 39 17 AM" src="https://github.com/yashkapoor71/beats-productwebsite/assets/113561170/bb86d48d-a2c9-4a37-87b9-65cbf8452f55">
+
 
