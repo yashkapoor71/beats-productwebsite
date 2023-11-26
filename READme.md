@@ -2,7 +2,7 @@ This is a product landing page for Beats Studio 3 headphones. I plan to further 
 
 Anyways, this has some sick scroll reveal animations to showing off my creativity which was half help from YouTube. 
 
-Here's a photo of the final preview: 
+Here's a photo of the final preview (the photos are kinda messed up but the page is fine, no issues): 
 
 <img width="1496" alt="Screenshot 2023-11-26 at 6 39 17 AM" src="https://github.com/yashkapoor71/beats-productwebsite/assets/113561170/bb86d48d-a2c9-4a37-87b9-65cbf8452f55">
 <img width="1496" alt="Screenshot 2023-11-26 at 6 39 40 AM" src="https://github.com/yashkapoor71/beats-productwebsite/assets/113561170/6bf2f1ec-9bff-4245-856d-0b909011f55c">
